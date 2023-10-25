@@ -16,4 +16,10 @@
 
 ![go to branch settings](./assets/Screen%20Shot%202023-10-22%20at%2010.50.00%20PM.png)
 
-![add rule for mail branch](./assets//Screen%20Shot%202023-10-22%20at%2010.51.55%20PM.png)
+![add rule for mail branch](./assets/Screen%20Shot%202023-10-22%20at%2010.51.55%20PM.png)
+
+## اضافه کردن gitignore
+
+فایل `.gitignore` را برای در نظر نگرفتن تغییرات در پوشه `.vscode` که تنظیمات IDE را در خود دارد ایجاد می‌کنیم. پس از ایجاد این فایل آدرس مورد نظر خود را در آن وارد و فایل را push می‌کنیم.
+
+![add gitignore](./assets/Screen%20Shot%202023-10-25%20at%203.40.46%20PM.png)
