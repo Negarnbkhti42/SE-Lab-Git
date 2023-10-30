@@ -46,6 +46,10 @@
 
 ![merge local conflict](./assets/Screen%20Shot%202023-10-27%20at%203.24.09%20PM.png)
 
+نمونه دیگری در `pull request` مربوط به ادغام شاخه documentation با master ایجاد شد.
+
+![documentation conflict](./assets/Screen%20Shot%202023-10-30%20at%209.33.47%20PM.png)
+
 ## پاسخ پرسش‌ها
 
 1. **پوشه‌ی .git چیست؟ چه اطلاعاتی در آن ذخیره می‌شود؟ با چه دستوری ساخته می‌شود؟**
