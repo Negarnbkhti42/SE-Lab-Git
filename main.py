@@ -1,9 +1,4 @@
-def load_valid_words(filename):
-    with open(filename, 'r', encoding='UTF-8') as file:
-        return [line.strip() for line in file.readlines()]
-
-def main():
-    print("Hello World!")
+print("hello world!")
 
     valid_words = load_valid_words('./assets/valid-wordle-words.txt')
     print(valid_words[:5])
