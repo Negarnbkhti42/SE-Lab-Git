@@ -16,7 +16,11 @@
 
 ![go to branch settings](./assets/Screen%20Shot%202023-10-22%20at%2010.50.00%20PM.png)
 
-![add rule for mail branch](./assets/Screen%20Shot%202023-10-22%20at%2010.51.55%20PM.png)
+![add rule for main branch](./assets/Screen%20Shot%202023-10-30%20at%209.28.09%20PM.png)
+
+در هنگام ایجاد یک `pull request` با مقصد main نیز می‌توان مشاهده کرد که تنها با approve یک شخص دیگر اجازه emrge داده می‌شود.
+
+![merge request only on approve](./assets/Screen%20Shot%202023-10-22%20at%2010.51.55%20PM.png)
 
 ## اضافه کردن gitignore
 
