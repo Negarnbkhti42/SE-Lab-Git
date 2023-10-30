@@ -17,3 +17,10 @@
 ![go to branch settings](./assets/Screen%20Shot%202023-10-22%20at%2010.50.00%20PM.png)
 
 ![add rule for mail branch](./assets//Screen%20Shot%202023-10-22%20at%2010.51.55%20PM.png)
+
+1. پوشه‌ی .git چیست؟ چه اطلاعاتی در آن ذخیره می‌شود؟ با چه دستوری ساخته می‌شود؟
+2. منظور از atomic بودن در atomic commit و atomic pull-request چیست؟
+3. تفاوت دستورهای fetch و pull و merge و rebase و cherry-pick را بیان کنید.
+4. تفاوت دستورهای reset و revert و restore را بیان کنید.
+5. منظور از stage چیست؟ دستور stash چه کاری را انجام می‌دهد؟
+6. مفهوم snapshot به چه معناست؟ ارتباط آن با commit چیست؟
