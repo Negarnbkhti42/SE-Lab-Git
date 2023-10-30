@@ -49,6 +49,7 @@
 نمونه دیگری در `pull request` مربوط به ادغام شاخه documentation با master ایجاد شد.
 
 ![documentation conflict](./assets/Screen%20Shot%202023-10-30%20at%209.33.47%20PM.png)
+![documentation conflict](./assets/Screen%20Shot%202023-10-30%20at%209.38.54%20PM.png)
 
 ## پاسخ پرسش‌ها
 
